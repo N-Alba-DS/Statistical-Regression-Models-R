@@ -5,7 +5,6 @@ Partiendo del dataset de la Encuesta Permanente de Hogares (EPH) de Argentina. E
 ## Herramientas Utilizadas
 - **Lenguaje**: R
 - **Bibliotecas**: Tidyverse, ggplot2, dplyr
-- **Análisis Visual**: Tableau
 
 ## Estructura del Proyecto
 
