@@ -1,6 +1,6 @@
 # Modelos de Regresión Estadística aplicados al Análisis de la Encuesta Permanente de Hogares
 
-Partiendo del dataset de la Encuesta Permanente de Hogares (EPH) de Argentina. El objetivo del análisis es construir modelos para explicar y predecir el salario horario de las personas, empleando diversas técnicas de análisis estadístico.
+Para la materia Enfoque Estadístico del Aprendizaje impartida en el segundo semestre de la Maest´ria Partiendo del dataset de la Encuesta Permanente de Hogares (EPH) de Argentina. El objetivo del análisis es construir modelos para explicar y predecir el salario horario de las personas, empleando diversas técnicas de análisis estadístico.
 
 ## Herramientas Utilizadas
 - **Lenguaje**: R
